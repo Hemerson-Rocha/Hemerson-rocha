@@ -1,3 +1,4 @@
+<!--  
 <div>
   <a href="https://github.com/Hemerson-rocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemerson-rocha&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -19,3 +20,4 @@
   ![Snake animation](https://github.com/Hemerson-rocha/Hemerson-rocha/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+-->
